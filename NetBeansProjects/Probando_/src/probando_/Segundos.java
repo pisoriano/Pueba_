@@ -9,15 +9,6 @@ package probando_;
  *
  * @author profesor
  */
-public class Probando_ {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        int i=0;
-        int j=1;
-    }
+public class Segundos {
     
 }
